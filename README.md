@@ -3,7 +3,7 @@
 #### Desenvolvedor Web, fascinado pelo aprendizado e sempre procurando o próximo nível.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsouuza/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](snrafa.souza@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snrafa.souza@gmail.com)
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsouuza&show_icons=true&theme=dracula)
 
